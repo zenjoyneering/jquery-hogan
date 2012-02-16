@@ -1,0 +1,9 @@
+jQuery Hogan
+============
+
+Simple hogan plugin for jQuery.
+
+Requires jquery (https://github.com/jquery/jquery) and 
+hogan (https://github.com/twitter/hogan.js)
+
+
